@@ -1,0 +1,8 @@
+
+{
+  "name": "Nawab Saheb — Fine Mughlai Dining & Luxury Stay",
+  "description": "Nawab Saheb at The Westin Mumbai Powai Lake offers an exquisite fine-dining experience featuring authentic Mughlai cuisine, all-you-can-eat options, and premium luxury hospitality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
